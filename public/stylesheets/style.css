@@ -52,7 +52,7 @@ body {
 }
 
 a {
-  color: goldenrod;
+  color: rgb(78, 56, 1);
   text-decoration: none;
 }
 
@@ -121,6 +121,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', end
 #footer a {
   float: right;
   font-size: 0.8em;
+  font-family: Helvetica;
 }
 
 h1 {
