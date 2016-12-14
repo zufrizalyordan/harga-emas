@@ -1,0 +1,22 @@
+{
+  "name": "harga-emas",
+  "version": "1.0.0",
+  "description": "menampilkan harga emas dari beberapa sumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zufrizalyordan/harga-emas.git"
+  },
+  "author": "zufrizalyordan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zufrizalyordan/harga-emas/issues"
+  },
+  "homepage": "https://github.com/zufrizalyordan/harga-emas#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
